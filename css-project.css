@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-left: 110px;
+  font-size: 30px;
+  color: tomato;
+  padding-top: 100px;
+}
+.cc {
+  padding-left: 80px;
+}
+
+nav li:hover {
+  color: aliceblue;
+}
+nav {
+  position: fixed;
+  top: 0;
+  background-color: black;
+  width: 100%;
+  height: 70px;
+  padding-top: 35px;
+  box-shadow: -1px 38px 39px -17px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 38px 39px -17px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 38px 39px -17px rgba(0, 0, 0, 0.75);
+}
+main {
+  margin-top: 150px;
+  padding-left: 30%;
+}
+nav ul a {
+  text-decoration-color: black;
+}
+#home h1 {
+  margin: 35px 0 35px 90px;
+}
+img {
+  margin-bottom: 35px;
+  box-shadow: 2px 1px 39px 10px rgba(241, 9, 9, 0.75);
+  -webkit-box-shadow: 2px 1px 39px 10px rgba(241, 9, 9, 0.75);
+  -moz-box-shadow: 2px 1px 39px 10px rgba(241, 9, 9, 0.75);
+}
+#home ul {
+  margin-left: 100px;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#home p {
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#home {
+  line-height: 30px;
+  padding-top: 90px;
+}
+#about h1 {
+  margin-left: 250px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+#about p {
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  line-height: 30px;
+}
+#about {
+  margin-bottom: 30px;
+}
+#work h1 {
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+#work li {
+  font-size: 20px;
+  width: 800px;
+  margin-left: -30px;
+  line-height: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#resume {
+}
